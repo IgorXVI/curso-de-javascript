@@ -5,5 +5,5 @@ const app = express();
 
 app.use( "/", express.static(path.join(__dirname, "public")) );
 
-const port = 36543;
+const port = 3000;
 app.listen(port, () => console.log(`listening on port ${port}...`));
