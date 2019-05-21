@@ -1,0 +1,22 @@
+{
+  "name": "curso-js",
+  "version": "1.0.0",
+  "description": "curso de javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorXVI/curso-de-javascript.git"
+  },
+  "author": "Igor Almeida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IgorXVI/curso-de-javascript/issues"
+  },
+  "homepage": "https://github.com/IgorXVI/curso-de-javascript#readme",
+  "dependencies": {
+    "express": "^4.17.0"
+  }
+}
